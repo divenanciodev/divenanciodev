@@ -28,7 +28,7 @@ Me chamo Thaísa Venâncio de Sousa, tenho 26 anos e sou natural de Barra do cor
     <img src="https://img.shields.io/badge/Inscreva--se-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000" alt="Inscreva-se no YouTube" />
   </a>
   &nbsp;&nbsp;
-  <a href="www.pinterest.com/divenanciodev" target="_blank">
+  <a href="https://pin.it/6qdGb3Kyj" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-ffffff?style=for-the-badge&logo=pinterest&logoColor=FF0000&labelColor=ffffff&color=ffffff" alt="Siga-me no Pinterest" />
   </a>
 </p>

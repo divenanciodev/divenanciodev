@@ -230,20 +230,4 @@ Estou sempre em busca de expandir meus conhecimentos, não me limitando apenas a
 </tr>
 </table>
 
----
-
-## 🛠️ Tecnologias
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Design-FF4088?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 📫 Contato
-- 💼 LinkedIn: SEU LINK
-- 🎨 Behance: SEU LINK
-- 📧 Email: SEU EMAIL
 

@@ -190,7 +190,7 @@ Estou sempre em busca de expandir meus conhecimentos, não me limitando apenas a
 <tr>
 <td width="50%">
 
-###🧳 Made In Nordeste | Programação Web I 2º Período
+### 🧳 Made In Nordeste | Programação Web I 2º Período
 🔹 Landing page apresentando 5 pontos turísticos do Maranhão.
 🔹 Tecnologias: HTML | CSS   
 

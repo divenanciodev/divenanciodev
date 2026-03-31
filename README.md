@@ -42,7 +42,7 @@ Me chamo Thaísa Venâncio de Sousa, tenho 26 anos e sou natural de Barra do cor
 
 ---
 
-### 🧠 Linguagens e Tecnologias
+### 🧠 Linguagens e Tecnologias de Interesse
 
 <img 
     align="left" 

@@ -168,8 +168,6 @@ Me chamo Thaísa Venâncio de Sousa, tenho 26 anos e sou natural de Barra do cor
 
 <img src="https://cdn-icons-png.flaticon.com/512/8424/8424046.png" width=100>
 
-### 🎓 Qualificações e Certificações
-
 Estou sempre em busca de expandir meus conhecimentos, não me limitando apenas ao que está diretamente relacionado à minha área de atuação. Acredito que uma visão ampla é essencial para o crescimento pessoal e profissional. Por isso, invisto em aprender tanto as hard skills, que fortalecem minha expertise técnica, quanto as soft skills, que são fundamentais para o desenvolvimento de habilidades interpessoais e emocionais.
 
 </div>

@@ -191,7 +191,7 @@ Estou sempre em busca de expandir meus conhecimentos, não me limitando apenas a
 <td width="50%">
 
 ###🧳 Made In Nordeste | Programação Web I 2º Período
-🔹 Landing page aprensentando 5 pontos turísticos do Maranhão.
+🔹 Landing page apresentando 5 pontos turísticos do Maranhão.
 🔹 Tecnologias: HTML | CSS   
 
 👉 <a href="https://github.com/divenanciodev/maadeinnordeste-site">Ver projeto</a>

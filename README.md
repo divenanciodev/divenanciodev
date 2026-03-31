@@ -190,20 +190,20 @@ Estou sempre em busca de expandir meus conhecimentos, não me limitando apenas a
 <tr>
 <td width="50%">
 
-### 📚 Aplicativo Tatu Quo
-🔹 Aplicação de estudos com foco em organização e produtividade.  
-🔹 Tecnologias: Java | UI | Banco de Dados  
+###🧳 Made In Nordeste | Programação Web I 2º Período
+🔹 Landing page aprensentando 5 pontos turísticos do Maranhão.
+🔹 Tecnologias: HTML | CSS   
 
-👉 <a href="https://github.com/divenanciodev/aplicativostatuquo">Ver projeto</a>
+👉 <a href="https://github.com/divenanciodev/maadeinnordeste-site">Ver projeto</a>
 
 </td>
 <td width="50%">
 
-### 🤖 Projetos de IA
-🔹 Estudos e experimentos com Inteligência Artificial  
-🔹 Machine Learning • Automação • Dados  
+### 💻 Formulário Básico | Programação Web I 2º Período
+🔹 Formulário Básico para treinar entradas de dados  
+🔹 Tecnologias: HTML | CSS    
 
-👉 <a href="https://github.com/divenanciodev">Ver repositórios</a>
+👉 <a href="https://github.com/divenanciodev/formulariobasico">Ver Projeto</a>
 
 </td>
 </tr>
@@ -211,20 +211,20 @@ Estou sempre em busca de expandir meus conhecimentos, não me limitando apenas a
 <tr>
 <td width="50%">
 
-### 🎨 Design & Portfólio
-🔹 Projetos visuais, interfaces e identidade digital  
-🔹 UX/UI • Branding • Behance  
+### 🎨 Site de Apresentação | Programação Web I
+🔹 Site básico para apresentar o curso e as disciplinas do 1º e 2º período.
+🔹 Tecnologias: HTML | CSS  
 
-👉 <a href="https://github.com/divenanciodev">Explorar</a>
+👉 <a href="https://github.com/divenanciodev/siteprogramacaoweb">Ver Projeto</a>
 
 </td>
 <td width="50%">
 
-### ☕ Estudos Java
-🔹 Exercícios, mini sistemas e desafios em Java  
-🔹 Lógica • POO • APIs  
+### 📲 Resolução do problema - Teclado | Introdução à Computação 1º Período
+🔹 (2021-3ª fase) - Olimpíada Brasileira de Informática
+🔹 Tecnologias: Python 
 
-👉 <a href="https://github.com/divenanciodev">Ver estudos</a>
+👉 <a href="https://github.com/divenanciodev/dupla-keliane-thaisa">Ver Projeto</a>
 
 </td>
 </tr>

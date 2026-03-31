@@ -174,14 +174,28 @@ Estou sempre em busca de expandir meus conhecimentos, não me limitando apenas a
 
 ## 🚀 Certificados
 
-**🚀 Certificados**
+<table>
+<tr>
+<td>
+<img src="SEU-PRINT-OU-CAPA.png" width="180"/>
+</td>
+<td>
 
-**Curso:** Inteligência Artificial  
-**Instituição:** Escola do Trabalhador 4.0  
-**Carga Horária:** **4h**  
-**Conclusão:** ✅ **100%**
+<sub>CURSO</sub>  
+## Inteligência Artificial  
 
-![Badge](https://i.imgur.com/0z5z5z5.png)
+<sub>INSTITUIÇÃO</sub>  
+### Escola do Trabalhador 4.0  
+
+**Conclusão:** `100%`  
+
+![progress](https://progress-bar.xyz/100/?title=Progresso)
+
+![badge](https://img.shields.io/badge/Carga%20Hor%C3%A1ria-4%20horas-lightgrey?style=for-the-badge)
+
+</td>
+</tr>
+</table>
 
 ---
 

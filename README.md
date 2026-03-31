@@ -174,7 +174,7 @@ Estou sempre em busca de expandir meus conhecimentos, não me limitando apenas a
 
 ## 🚀 Certificados
 
-![badge](https://github-readme-educational-badge.vercel.app/pt/badge?name=Escola%20do%20Trabalhador%204.0&course=Inteligência%20Artificial&degree=degree=%20%20Carga%20Hor%C3%A1ria%3A%204h&progress=100%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlsCPsyb4nRA79bJ7V2ei9a0Rr3Bshv4bzvQ&s) </div> </div> <p>
+![badge](https://github-readme-educational-badge.vercel.app/pt/badge?name=Escola%20do%20Trabalhador%204.0&course=Inteligência%20Artificial&degree=Treinamento&progress=100%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlsCPsyb4nRA79bJ7V2ei9a0Rr3Bshv4bzvQ&s)</div> </div> <p>
 
 ---
 

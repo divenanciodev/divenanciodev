@@ -182,11 +182,11 @@ Estou sempre em busca de expandir meus conhecimentos, não me limitando apenas a
 </div>
 <p>
 
-<h1 align="center">✨ Thaísa Venâncio | Dev & AI Student</h1>
+---
 
-<p align="center">
-  💻 Java Developer em formação • 🤖 IA • 🎨 Design Digital
-</p>
+<h1 align="center">
+  💻 Aqui coloco meus conhecimentos em prática • 🤖 IA • 🎨 Design Digital
+</h1>
 
 ---
 

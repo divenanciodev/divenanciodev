@@ -182,5 +182,74 @@ Estou sempre em busca de expandir meus conhecimentos, não me limitando apenas a
 </div>
 <p>
 
+<h1 align="center">✨ Thaísa Venâncio | Dev & AI Student</h1>
 
+<p align="center">
+  💻 Java Developer em formação • 🤖 IA • 🎨 Design Digital
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<table>
+<tr>
+<td width="50%">
+
+### 📚 Aplicativo Tatu Quo
+🔹 Aplicação de estudos com foco em organização e produtividade.  
+🔹 Tecnologias: Java | UI | Banco de Dados  
+
+👉 <a href="https://github.com/divenanciodev/aplicativostatuquo">Ver projeto</a>
+
+</td>
+<td width="50%">
+
+### 🤖 Projetos de IA
+🔹 Estudos e experimentos com Inteligência Artificial  
+🔹 Machine Learning • Automação • Dados  
+
+👉 <a href="https://github.com/divenanciodev">Ver repositórios</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎨 Design & Portfólio
+🔹 Projetos visuais, interfaces e identidade digital  
+🔹 UX/UI • Branding • Behance  
+
+👉 <a href="https://github.com/divenanciodev">Explorar</a>
+
+</td>
+<td width="50%">
+
+### ☕ Estudos Java
+🔹 Exercícios, mini sistemas e desafios em Java  
+🔹 Lógica • POO • APIs  
+
+👉 <a href="https://github.com/divenanciodev">Ver estudos</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tecnologias
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Design-FF4088?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📫 Contato
+- 💼 LinkedIn: SEU LINK
+- 🎨 Behance: SEU LINK
+- 📧 Email: SEU EMAIL
 

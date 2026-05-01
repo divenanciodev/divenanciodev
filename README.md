@@ -15,8 +15,9 @@ Me chamo Thaísa Venâncio de Sousa, tenho 26 anos e sou natural de Barra do cor
 <p align="center">
   <a href="https://youtube.com/@devenancio?si=J-2hYGCTqTBswT-q"><img width="32px" alt="Youtube" title="Youtube" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://img.freepik.com/vetores-premium/icone-do-logotipo-do-linkedin_1273375-1174.jpg?semt=ais_hybrid&w=740&q=80"/></a>
+  <a href="https://www.linkedin.com/in/thaisavenanciodev/"><img width="32px" alt="Youtube" title="Youtube" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  
   <a href="http://www.tiktok.com/@divenanciomkt" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://img.freepik.com/vetores-premium/icone-de-falha-do-tik-tok-da-midia-social-icone-do-tik-tok-vinnitsa-ucrania-22-02-2-2023_250246-536.jpg?semt=ais_hybrid&w=740&q=80"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/divenancio.mkt?igsh=ajE2ZmF1ZjJzZjBj&utm_source=qr"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.freepik.com/vetores-gratis/instagram-logo_1199-122.jpg?semt=ais_hybrid&w=740&q=80"></a>

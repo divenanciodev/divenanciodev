@@ -15,7 +15,7 @@ Me chamo Thaísa Venâncio de Sousa, tenho 26 anos e sou natural de Barra do cor
 <p align="center">
   <a href="https://youtube.com/@devenancio?si=J-2hYGCTqTBswT-q"><img width="32px" alt="Youtube" title="Youtube" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://linkedin.com/in/thaisavenanciodev"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png"/></a>
+  <a href="https://img.freepik.com/vetores-premium/icone-do-logotipo-do-linkedin_1273375-1174.jpg?semt=ais_hybrid&w=740&q=80"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://www.tiktok.com/@divenanciomkt" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://img.freepik.com/vetores-premium/icone-de-falha-do-tik-tok-da-midia-social-icone-do-tik-tok-vinnitsa-ucrania-22-02-2-2023_250246-536.jpg?semt=ais_hybrid&w=740&q=80"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;

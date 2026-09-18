@@ -8,37 +8,18 @@ Me chamo Thaísa Venâncio de Sousa, tenho 26 anos e sou natural de Barra do cor
   <h3 align="center">⌨️ Seja Bem Vindo(a)</h3>
 </p>
 
-<p align="center">
-  <a href="https://youtube.com/@devenancio?si=J-2hYGCTqTBswT-q">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="32" alt="YouTube"/>
-  </a>
+
   
   <a href="https://www.linkedin.com/in/thaisavenanciodev/" style="margin: 0 10px;">
     <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png" width="32" alt="LinkedIn"/>
   </a>
   
-  <a href="http://www.tiktok.com/@divenanciomkt" style="margin: 0 10px;">
-    <img src="https://img.freepik.com/vetores-premium/icone-de-falha-do-tik-tok-da-midia-social-icone-do-tik-tok-vinnitsa-ucrania-22-02-2-2023_250246-536.jpg" width="32" alt="TikTok"/>
-  </a>
   
   <a href="https://www.instagram.com/divenancio.mkt" style="margin: 0 10px;">
     <img src="https://img.freepik.com/vetores-gratis/instagram-logo_1199-122.jpg" width="32" alt="Instagram"/>
   </a>
   
-  <a href="https://github.com/divenanciodev" style="margin: 0 10px;">
-    <img src="https://img.icons8.com/ios_filled/512/FFFFFF/github.png" width="32" alt="GitHub"/>
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://youtube.com/@devenancio?si=J-2hYGCTqTBswT-q" target="_blank">
-    <img src="https://img.shields.io/badge/Inscreva--se-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  
-  <a href="https://pin.it/6qdGb3Kyj" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/Pinterest-ffffff?style=for-the-badge&logo=pinterest&logoColor=FF0000" />
-  </a>
-</p>
 
   </a>
 </p>

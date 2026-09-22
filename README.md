@@ -1,6 +1,6 @@
 # 💻 Thaísa Venâncio
 
-**`Estudante de Marketing e Desenvolvimento de Sistemas`**
+**`Tecnóloga em Marketing e Estudante do 3º Período em Análise e Desenvolvimento de Sistemas`**
 
 Me chamo Thaísa Venâncio de Sousa, tenho 26 anos e sou natural de Barra do corda-MA, mas atualmente estou morando em Grajaú-MA. Estudo Análise e Desenvolvimento de Sistemas no IFMA-CAMPUS GRAJAÚ e Marketing pela Unigrande no formato EAD. Sou movida pela vontade de tornar o digital mais humano, criando experiências que funcionam tão bem quanto inspiram, através do Marketing juntamente ao Desenvolvimento de Sistemas. Acredito que cada linha de código e cada escolha visual têm o poder de conectar ideias e pessoas. 
 

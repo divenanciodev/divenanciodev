@@ -9,7 +9,7 @@ Me chamo Thaísa Venâncio de Sousa, tenho 26 anos e sou natural de Barra do cor
 </p>
 
 
-  <a align="center" href="https://www.linkedin.com/in/thaisavenanciodev/" style="margin: 0 10px;">
+  <a  href="https://www.linkedin.com/in/thaisavenanciodev/" style="margin: 0 10px;">
     <img  src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png" width="32" align="center" alt="LinkedIn"/>
   </a>
   
